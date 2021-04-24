@@ -31,7 +31,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/samthatcode/samthatcode.github.io.git](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -48,7 +48,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Frontend Mentor - [@samthatcode](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@samthatcode](https://www.twitter.com/samthatcode)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
 ## Acknowledgments
 
